@@ -1,4 +1,4 @@
-# Budget-Allocation-ApplicationBudgetAllocationApplication
+# Budget_Allocation_Application
 
 It has the following six components:-Budget, ExpenseItem, ExpenseList, ExpenseTotal (Spent so far), Remaining, AllocationForm. All of these components will be using redux for state management through AppContext.js.
 
